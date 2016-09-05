@@ -1,0 +1,9 @@
+{
+    "version": 0,
+    "tools": {
+        "my-plugin": {
+            "label": "My plugin",
+            "path": "index.html"
+        }
+    }
+}
